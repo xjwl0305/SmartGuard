@@ -1,0 +1,10 @@
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.Properties.Resources.resources
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.csproj.GenerateResource.cache
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\bin\Debug\SmartGuard2.exe.config
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\bin\Debug\SmartGuard2.exe
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\bin\Debug\SmartGuard2.pdb
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.exe
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.pdb
+C:\Users\USER\RiderProjects\SmartGuard2\SmartGuard2\obj\Debug\SmartGuard2.TimerState.resources
