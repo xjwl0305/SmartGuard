@@ -30,8 +30,8 @@ namespace SmartGuard2
             {
                 //label1.Text = "Not running";
                 Process ps = new Process();
-                ps.StartInfo.FileName = "NorisLog";
-                ps.StartInfo.WorkingDirectory = @"C:\Users\USER\Desktop";
+                ps.StartInfo.FileName = "LogAnalysisApp";
+                ps.StartInfo.WorkingDirectory = @"C:\logFile";
                 ps.Start();
 
             }
